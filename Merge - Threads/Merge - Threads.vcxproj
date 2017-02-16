@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{5C20BFBC-1F60-4356-8D64-3370E9526F4E}</ProjectGuid>
+    <ProjectGuid>{DC7EA2A1-313E-492D-BDF8-9CA293899CD3}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>Merge</RootNamespace>
+    <RootNamespace>MergeThreads</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
